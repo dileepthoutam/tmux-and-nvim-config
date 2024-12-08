@@ -1,0 +1,32 @@
+{
+    "workspace.library": [
+        "/home/dileepthoutam/.local/share/nvim/lazy/neodev.nvim/types/nightly",
+        "/usr/share/nvim/runtime/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/mason.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/nvim-lspconfig/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/nvim-cmp/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/which-key.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/telescope-ui-select.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/cmp-nvim-lsp/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/fidget.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/telescope-fzf-native.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/lazy.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/nvim-treesitter/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/mini.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/telescope.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/cmp_luasnip/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/mason-lspconfig.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/conform.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/cmp-path/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/LuaSnip/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/tokyonight.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/gitsigns.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/todo-comments.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/plenary.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/Comment.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/neodev.nvim/lua",
+        "/home/dileepthoutam/.local/share/nvim/lazy/mason-tool-installer.nvim/lua",
+        "/home/dileepthoutam/init.lua/lua",
+        "${3rd}/luv/library"
+    ]
+}
